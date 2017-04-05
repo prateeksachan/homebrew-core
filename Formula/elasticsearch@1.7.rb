@@ -1,7 +1,7 @@
 class ElasticsearchAT17 < Formula
   desc "Distributed search & analytics engine"
   homepage "https://www.elastic.co/products/elasticsearch"
-  url "https://download.elastic.co/elasticsearch/elasticsearch/elasticsearch-1.7.6.tar.gz"
+  url "https://download.elastic.co/elasticsearch/elasticsearch/elasticsearch-1.7.4.tar.gz"
   sha256 "78affc30353730ec245dad1f17de242a4ad12cf808eaa87dd878e1ca10ed77df"
 
   bottle :unneeded
